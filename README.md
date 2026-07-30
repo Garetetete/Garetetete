@@ -26,7 +26,7 @@ Trabajo de punta a punta: backend, frontend, base de datos e infraestructura. Ac
 | **[multiplayer-party-games](https://github.com/Garetetete/multiplayer-party-games)** | Plataforma multijugador en tiempo real: monorepo TypeScript con Phaser 3 y Socket.IO, servidor autoritativo y arquitectura por capas |
 | **[JaviTickets](https://github.com/Garetetete/JaviTickets)** | API REST en Laravel 10 + PostgreSQL para ticketing con QR firmado: pagos por webhook, control de aforo y validación en puerta |
 | **[fastapi-bdd-testing](https://github.com/Garetetete/fastapi-bdd-testing)** | API en FastAPI con tres niveles de prueba: unitarias, BDD en Gherkin y E2E con Playwright, todo en Docker |
-| **[ReconocedorSentimientosHumanos](https://github.com/Garetetete/ReconocedorSentimientosHumanos)** | Reconocimiento de emociones en tiempo real con OpenCV y MediaPipe, con modelos intercambiables y sin necesidad de GPU |
+| **[face-sentiment](https://github.com/Garetetete/face-sentiment)** | Análisis de expresión facial en video: curvas de emociones y de valencia/activación por persona. FastAPI + OpenCV/MediaPipe con modelos de deep learning intercambiables, interfaz web y app de escritorio |
 | **[PicasyFijas](https://github.com/Garetetete/PicasyFijas)** | Juego de lógica en Python desarrollado con historias de usuario, cobertura de pruebas, linting y CI en GitHub Actions y GitLab CI |
 
 > Buena parte de mi trabajo profesional —la plataforma con agentes de IA, microservicios .NET para los sectores público y asegurador— vive en repositorios privados de las empresas para las que lo construí. Los proyectos de arriba son los que puedo compartir.
