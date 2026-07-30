@@ -23,7 +23,7 @@ Trabajo de punta a punta: backend, frontend, base de datos e infraestructura. Ac
 
 | Proyecto | De qué va |
 |---|---|
-| **[rag-doc-assistant](https://github.com/Garetetete/rag-doc-assistant)** | Asistente RAG sobre documentos propios con citas verificables: FastAPI + PostgreSQL/pgvector + React. Enrutamiento de modelos por costo, streaming SSE y abstracción de proveedor. Spec-driven, con 91 pruebas en cuatro niveles y CI |
+| **[rag-doc-assistant](https://github.com/Garetetete/rag-doc-assistant)** | Asistente RAG sobre documentos propios con citas verificables: FastAPI + PostgreSQL/pgvector + React. Enrutamiento de modelos por costo, streaming SSE y abstracción de proveedor. Spec-driven, con 107 pruebas en cuatro niveles y CI |
 | **[multiplayer-party-games](https://github.com/Garetetete/multiplayer-party-games)** | Plataforma multijugador en tiempo real: monorepo TypeScript con Phaser 3 y Socket.IO, servidor autoritativo y arquitectura por capas |
 | **[JaviTickets](https://github.com/Garetetete/JaviTickets)** | API REST en Laravel 10 + PostgreSQL para ticketing con QR firmado: pagos por webhook, control de aforo y validación en puerta |
 | **[fastapi-bdd-testing](https://github.com/Garetetete/fastapi-bdd-testing)** | API en FastAPI con tres niveles de prueba: unitarias, BDD en Gherkin y E2E con Playwright, todo en Docker |
